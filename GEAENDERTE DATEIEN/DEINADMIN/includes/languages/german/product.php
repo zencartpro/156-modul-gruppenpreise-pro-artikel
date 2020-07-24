@@ -1,10 +1,10 @@
 <?php
 /**
  * @package admin
- * @copyright Copyright 2003-2019 Zen Cart Development Team
+ * @copyright Copyright 2003-2020 Zen Cart Development Team
  * @copyright Portions Copyright 2003 osCommerce
  * @license https://www.zen-cart-pro.at/license/3_0.txt GNU General Public License V3.0
- * @version $Id: product.php for group pricing by item 2019-09-19 07:58:04Z webchills $
+ * @version $Id: product.php for group pricing by item 2020-07-24 07:58:04Z webchills $
  */
 
 
@@ -30,7 +30,6 @@ define('TEXT_PRODUCTS_NAME', 'Artikelname:');
 define('TEXT_PRODUCTS_MERKMALE', 'Merkmale für Buttonlösung:');
 define('TEXT_PRODUCTS_DESCRIPTION', 'Artikelbeschreibung:');
 define('TEXT_PRODUCTS_QUANTITY', 'Lagerbestand:');
-define('TEXT_PRODUCTS_MODEL', 'Artikelnummer:');
 define('TEXT_PRODUCTS_IMAGE', 'Artikelbild:');
 define('TEXT_IMAGE_NONEXISTENT', 'Bild existiert nicht');
 define('TEXT_PRODUCTS_IMAGE_DIR', 'Uploadverzeichnis:');
